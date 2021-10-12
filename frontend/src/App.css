@@ -1,0 +1,55 @@
+.week-row {
+  padding-top: 50px;
+}
+
+.empty-card {
+  height: 160px;
+  width: 160px;
+  background-color: #F5F5F5;
+}
+
+.day-card {
+  height: 160px;
+  width: 160px;
+}
+
+.calendar {
+  padding-top: 50px;
+}
+
+.card-day-header {
+  padding-top: 10px;
+  padding-left: 10px;
+  margin-bottom: !unset;
+  font-size: 20px;
+  font-weight: light;
+}
+
+.card-day {
+  color: darkmagenta;
+}
+
+.card-day-passed {
+  color: lightgrey;
+}
+
+.card-day-today {
+  color: green;
+}
+
+.card-main-content {
+  margin-bottom: 0px;
+  cursor: pointer;
+}
+
+.workout-text {
+  font-size: 60px;
+  font-weight: 400;
+  height: 90px;
+}
+
+.card-date-footer {
+  padding-left: 10px;
+  font-size: 15px;
+  font-weight: light;
+}
